@@ -1,43 +1,51 @@
-# My Notes — [REPLACE WITH YOUR FULL NAME]
+# My Notes — [Edache Ada Precious]
 
-> **How to use this file:**
-> 1. **Download** this file to your computer — click the **Raw** button on GitHub, then right-click and *Save As*, OR click the download icon at the top-right of the file view
-> 2. **Rename** the downloaded file — replace `yourname` with your actual first and last name in lowercase, separated by hyphens, e.g. `microsoft-entra-oyimafu-emmanuel.md`
-> 3. **Open** the renamed file in any text editor (Notepad, VS Code, TextEdit) and fill in your notes below
-> 4. **Upload** your file to GitHub — go into this session folder on your forked repo, click **Add file → Upload files**, drag in your completed file, then click **Commit changes**
-> 5. **Open a Pull Request** back to the main repo — the facilitator will review your notes before merging
 
 ---
 
 ## Key Concepts I Learned
 
-<!-- Write the main ideas covered in today's session -->
 
--
+- I learned that GitHub is a platform for hosting and managing code using Git
+- I learned how reo stores projects
+- How commits ssve cahnges
+- How branches allows separate development 
 -
 -
 
 ---
 
 ## Lab / Hands-On Work
+I created a Github accouyand setw up my profile 
+Creaed a repo 
+made commits eith meaningful commit messages 
+Pushed local changes to github 
 
-<!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
 
 ### What I did
+During the GitHub practical session, i created a GitHub account and setup my profile 
+i created a new repository added a readme file
+i oracticed making clear commit medsages 
+
 
 
 ### What happened / Result
+It worked but because I'm using and android phone it was challenging 
+
 
 
 ### Challenges I faced
 
-
+I struggled to get my assignment submitted 
+i had it done, saved and even verified but it still wasn't on the list 
 ---
 
 ## My Takeaways
 
-<!-- What was most valuable to you personally from this session? -->
 
+Through they training i now understand how to create and manage repositories, track changes with commits.
+The hands on work increased my confidence in using GitHub and i gained practical skills 
+i now understand collaboration when working on a project 
 
 ---
 
@@ -58,4 +66,4 @@
 
 ---
 
-*Submitted by: [Your Full Name] · [Your GitHub username]*
+*Submitted by: [Name] · [Profile]*
