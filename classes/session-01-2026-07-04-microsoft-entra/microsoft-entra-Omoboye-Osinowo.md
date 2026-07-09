@@ -57,7 +57,7 @@
 
 
 ### Challenges I faced
- None
+- None
 ---
 
 ## My Takeaways
@@ -73,7 +73,7 @@
 
 <!-- Anything you want to follow up on or ask the mentor -->
 
--
+- None
 -
 
 ---
@@ -82,7 +82,8 @@
 
 <!-- Any links, docs, or Microsoft Learn modules you found helpful -->
 
--
+-Bootcamp live session and recording
+Microsoft Learn
 
 ---
 
