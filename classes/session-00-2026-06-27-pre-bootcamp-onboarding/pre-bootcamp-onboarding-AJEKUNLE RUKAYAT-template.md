@@ -1,4 +1,4 @@
-# My Notes — [AJEKUNLE RUKAYAT]
+# My Notes — [Joseph_Akighir]
 
 
 ---
@@ -7,12 +7,12 @@
 
 <!-- Write the main ideas covered in today's session -->
 
--Bootcamp curricullum
-how to study ,share and support one another
-how to create Github
-how to collaborate on Github
-hobbies that constantly produce strong candidate
-how to fork a repository
+-I learned all about the topics to be covered in the bootcamp
+-How to create a Github account
+-How to fork a repository edit and save
+-How to commit a repository and collaborate it
+-How to rename a downloaded template of a repository
+-How to pull a repository
 -
 -
 
@@ -21,6 +21,7 @@ how to fork a repository
 ## Lab / Hands-On Work
 
 <!-- Describe what you did in the lab. Include steps, commands, or screenshots descriptions -->
+This will be carry out in my first project
 
 ### What I did
 
